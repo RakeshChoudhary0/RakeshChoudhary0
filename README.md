@@ -103,18 +103,3 @@ I love building scalable web applications and learning new technologies.
 
 </div>
 
-<!-- STATS -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakusirvi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakusirvi&layout=compact&theme=tokyonight" />
-</p>
-
-<br/>
-
-<!-- FOOTER -->
-<h3 align="center">✨ Keep Learning, Keep Building 🚀</h3>
