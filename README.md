@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Rakesh Choudhary</h1>
-<h3 align="center">🚀 Passionate Full Stack MERN Developer</h3>
+<h3 align="center">🚀 MERN Developer / React Native Developer</h3>
 
 <br/>
 
