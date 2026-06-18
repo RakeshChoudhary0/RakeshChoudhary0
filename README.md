@@ -8,7 +8,7 @@
 <h2>👨‍💻 About Me</h2>
 <p>
 I am a dedicated Full Stack Developer specializing in the MERN stack, React Native and NextJS
-I love building scalable web applications and learning new technologies.
+I love building scalable applications and learning new technologies.
 </p>
 
 <br/>
