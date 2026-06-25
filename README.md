@@ -30,7 +30,7 @@
     <td width="30%" align="right" valign="middle">
       <!-- Minimalist Dynamic Identity Badge -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rakusirvi&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=34A370&icon_color=34A370&text_color=8E8E93"
+        src="https://github-readme-stats.vercel.app/api?username=RakeshChoudhary0&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=34A370&icon_color=34A370&text_color=8E8E93"
         alt="GitHub Summary"
       />
     </td>
@@ -165,13 +165,13 @@ software lifecycle.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakusirvi&layout=compact&theme=dark&hide_border=true&title_color=34A370&icon_color=34A370&bg_color=121212"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshChoudhary0&layout=compact&theme=dark&hide_border=true&title_color=34A370&icon_color=34A370&bg_color=121212"
     height="150"
     alt="Top Languages"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rakusirvi&theme=dark&hide_border=true&background=121212&ring=34A370&fire=34A370"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshChoudhary0&theme=dark&hide_border=true&background=121212&ring=34A370&fire=34A370"
     height="150"
     alt="Streak Stats"
   />
