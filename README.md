@@ -1,13 +1,37 @@
+<div align="center" width="100%">
+  <h1>Rakesh Choudhary</h1>
+  <p><b>App Developer Lead at Snatcho</b></p>
+  <p>
+    Building mobile applications and backend systems using React Native,
+    Next.js, and the PERN/MERN stack.
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img
+        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    &nbsp;
+    <a href="mailto:your-email@gmail.com">
+      <img
+        src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/your-twitter" target="_blank">
+      <img
+        src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white"
+        alt="X"
+      />
+    </a>
+  </p>
+</div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="100%" valign="middle"> <h1>Rakesh Choudhary</h1> <p><b>App Developer Lead at Snatcho</b></p> <p> Building mobile applications and backend systems using React Native, Next.js, and the PERN/MERN stack. </p> <p> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> &nbsp; <a href="https://twitter.com/your-twitter" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="X" /> </a> </p> </td> </tr> </table>
+--- ## Professional Focus
 
-<br />
-<hr size="1" color="#2C2C2E" />
-<br />
-
-##  Professional Focus
-
-<p>
+<p align="left">
   <img
     src="https://img.shields.io/badge/Snatcho-App%20Developer%20Lead-34A370?style=flat-square"
     alt="App Developer Lead at Snatcho"
@@ -32,7 +56,7 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3>What I Do</h3>
       <p>
         As the <b>App Developer Lead at Snatcho</b>, I work on mobile
@@ -51,8 +75,8 @@
         </li>
       </ul>
     </td>
-    <td width="45%" valign="top" style="padding-left: 20px">
-      <h3> Active Upskilling</h3>
+    <td width="50%" valign="top" style="padding-left: 25px">
+      <h3>Active Upskilling</h3>
       <p>
         Currently learning cloud and deployment technologies to better manage
         and scale applications.
@@ -71,59 +95,14 @@
   </tr>
 </table>
 
-<br />
-<hr size="1" color="#2C2C2E" />
-<br />
-
-## 🛠️ Ecosystem Matrix > Technologies I use for building and maintaining applications.
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr bgcolor="#1A1A1E">
-    <th align="left" width="25%"><font color="#FFFFFF">Layer</font></th>
-    <th align="left" width="75%">
-      <font color="#FFFFFF">Technologies & Tooling</font>
-    </th>
-  </tr>
-  <tr>
-    <td><b>Client</b></td>
-    <td>
-      <code>React Native</code> &bull; <code>Next.js</code> &bull;
-      <code>React.js</code> &bull; <code>TailwindCSS</code> &bull;
-      <code>Bootstrap</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Database</b></td>
-    <td>
-      <code>Express.js</code> &bull; <code>Node.js</code> &bull;
-      <code>PostgreSQL</code> &bull; <code>MongoDB</code> &bull;
-      <code>MySQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & DevOps</b></td>
-    <td>
-      <code>Docker</code> &bull;
-      <code>Kubernetes (Learning)</code> &bull;
-      <code>Firebase</code>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <code>TypeScript</code> &bull;
-      <code>JavaScript (ES6+)</code> &bull;
-      <code>C++</code> &bull;
-      <code>Java</code>
-    </td>
-  </tr>
-</table>
-
-<br />
-<hr size="1" color="#2C2C2E" />
-<br />
-
-##  Production Metrics
+--- ## 🛠️ Ecosystem Matrix > Technologies I use for building and maintaining
+applications. | Layer | Technologies & Tooling | | :--- | :--- | | **Client** |
+`React Native` &bull; `Next.js` &bull; `React.js` &bull; `TailwindCSS` &bull;
+`Bootstrap` | | **Backend & Database** | `Express.js` &bull; `Node.js` &bull;
+`PostgreSQL` &bull; `MongoDB` &bull; `MySQL` | | **Tools & DevOps** | `Docker`
+&bull; `Kubernetes (Learning)` &bull; `Firebase` | | **Languages** |
+`TypeScript` &bull; `JavaScript (ES6+)` &bull; `C++` &bull; `Java` | --- ##
+Production Metrics
 
 <p align="center">
   <img
@@ -140,10 +119,9 @@
 </p>
 
 <br />
+
 <div align="center">
-  <font size="2" color="#555555">
-    <i>
-      Focused on building clean, reliable, and scalable applications.
-    </i>
-  </font>
+  <sub
+    ><i>Focused on building clean, reliable, and scalable applications.</i></sub
+  >
 </div>
