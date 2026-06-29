@@ -95,13 +95,18 @@
   </tr>
 </table>
 
---- ## 🛠️ Ecosystem Matrix > Technologies I use for building and maintaining
-applications. | Layer | Technologies & Tooling | | :--- | :--- | | **Client** |
-`React Native` &bull; `Next.js` &bull; `React.js` &bull; `TailwindCSS` &bull;
-`Bootstrap` | | **Backend & Database** | `Express.js` &bull; `Node.js` &bull;
-`PostgreSQL` &bull; `MongoDB` &bull; `MySQL` | | **Tools & DevOps** | `Docker`
-&bull; `Kubernetes (Learning)` &bull; `Firebase` | | **Languages** |
-`TypeScript` &bull; `JavaScript (ES6+)` &bull; `C++` &bull; `Java` | --- ##
+## 🛠️ Ecosystem Matrix
+
+> Technologies I use for building and maintaining applications.
+
+| Layer | Technologies & Tooling |
+| :--- | :--- |
+| **Client** | `React Native` &bull; `Next.js` &bull; `React.js` &bull; `TailwindCSS` &bull; `Bootstrap` |
+| **Backend & Database** | `Express.js` &bull; `Node.js` &bull; `PostgreSQL` &bull; `MongoDB` &bull; `MySQL` |
+| **Tools & DevOps** | `Docker` &bull; `Kubernetes (Learning)` &bull; `Firebase` |
+| **Languages** | `TypeScript` &bull; `JavaScript (ES6+)` &bull; `C++` &bull; `Java` |
+
+---
 Production Metrics
 
 <p align="center">
