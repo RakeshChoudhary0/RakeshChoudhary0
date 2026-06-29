@@ -1,7 +1,7 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="70%" valign="middle">
+    <td width="100%" valign="middle">
       <h1>Rakesh Choudhary</h1>
       <p><b>App Developer Lead at Snatcho</b></p>
       <p>
@@ -9,28 +9,27 @@
         Next.js, and the PERN/MERN stack.
       </p>
       <p>
-        <a href="https://linkedin.com/in/your-linkedin" target="_blank"
-          ><img
+        <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+          <img
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
-            alt="LinkedIn" /></a
-        >&nbsp;
-        <a href="mailto:your-email@gmail.com"
-          ><img
+            alt="LinkedIn"
+          />
+        </a>
+        &nbsp;
+        <a href="mailto:your-email@gmail.com">
+          <img
             src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"
-            alt="Email" /></a
-        >&nbsp;
-        <a href="https://twitter.com/your-twitter" target="_blank"
-          ><img
+            alt="Email"
+          />
+        </a>
+        &nbsp;
+        <a href="https://twitter.com/your-twitter" target="_blank">
+          <img
             src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white"
             alt="X"
-        /></a>
+          />
+        </a>
       </p>
-    </td>
-    <td width="30%" align="right" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=RakeshChoudhary0&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=34A370&icon_color=34A370&text_color=8E8E93"
-        alt="GitHub Summary"
-      />
     </td>
   </tr>
 </table>
