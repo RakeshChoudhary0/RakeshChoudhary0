@@ -1,13 +1,12 @@
-<!-- ── PREMIUM MINIMALIST HEADER ── -->
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="70%" valign="middle">
       <h1>Rakesh Choudhary</h1>
-      <p><b>App Developer Lead at Snatcho &bull; Systems Architect</b></p>
+      <p><b>App Developer Lead at Snatcho</b></p>
       <p>
-        Leading mobile product engineering and orchestrating high-performance
-        cross-platform engines and robust backend systems via the PERN/MERN
-        stack, Next.js, and React Native.
+        Building mobile applications and backend systems using React Native,
+        Next.js, and the PERN/MERN stack.
       </p>
       <p>
         <a href="https://linkedin.com/in/your-linkedin" target="_blank"
@@ -28,7 +27,6 @@
       </p>
     </td>
     <td width="30%" align="right" valign="middle">
-      <!-- Minimalist Dynamic Identity Badge -->
       <img
         src="https://github-readme-stats.vercel.app/api?username=RakeshChoudhary0&layout=compact&show_icons=true&theme=transparent&hide_border=true&title_color=34A370&icon_color=34A370&text_color=8E8E93"
         alt="GitHub Summary"
@@ -41,8 +39,7 @@
 <hr size="1" color="#2C2C2E" />
 <br />
 
-<!-- ── CORE IDENTITY MATRIX ── -->
-## 🎯 Professional Focus & Identity
+##  Professional Focus
 
 <p>
   <img
@@ -50,8 +47,8 @@
     alt="App Developer Lead at Snatcho"
   />
   <img
-    src="https://img.shields.io/badge/Architecture-System%20Designer-34A370?style=flat-square"
-    alt="System Designer"
+    src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-34A370?style=flat-square"
+    alt="Full Stack Developer"
   />
   <img
     src="https://img.shields.io/badge/Stack-PERN%20%2F%20MERN-blue?style=flat-square"
@@ -72,37 +69,36 @@
     <td width="55%" valign="top">
       <h3>What I Do</h3>
       <p>
-        I design mobile product life-cycles and engineer reliable software
-        loops. As the <b>App Developer Lead at Snatcho</b>, I specialize in
-        structuring clean client-side architectures, secure rendering pipelines,
-        and building scalable Express backend ecosystems.
+        As the <b>App Developer Lead at Snatcho</b>, I work on mobile
+        applications, backend services, and product features. I focus on
+        building reliable, scalable, and user-friendly applications.
       </p>
       <ul>
         <li>
-          <b>Engineering Leadership:</b> Overseeing core mobile features,
-          performance optimizations, and multi-threaded native bridges in React
-          Native and Next.js applications.
+          <b>Team Leadership:</b> Managing development tasks, reviewing
+          features, improving performance, and helping deliver quality mobile
+          applications.
         </li>
         <li>
-          <b>System Architecture:</b> Translating intricate service rules into
-          robust database schemas and decoupled backend models.
+          <b>Application Development:</b> Building and maintaining React Native,
+          Next.js, and Express-based applications.
         </li>
       </ul>
     </td>
     <td width="45%" valign="top" style="padding-left: 20px">
-      <h3>🌱 Active Upskilling</h3>
+      <h3> Active Upskilling</h3>
       <p>
-        I am deep-diving into cloud infrastructure and container execution
-        engines to scale production workflows gracefully:
+        Currently learning cloud and deployment technologies to better manage
+        and scale applications.
       </p>
       <ul>
         <li>
-          <b>Docker:</b> Containerizing monolithic systems into sandboxed,
-          reproducible runtime environments.
+          <b>Docker:</b> Creating consistent development and deployment
+          environments.
         </li>
         <li>
-          <b>Kubernetes:</b> Mastering cluster orchestration, horizontal pod
-          autoscaling, and configuration architectures.
+          <b>Kubernetes:</b> Learning container orchestration and application
+          scaling.
         </li>
       </ul>
     </td>
@@ -113,9 +109,7 @@
 <hr size="1" color="#2C2C2E" />
 <br />
 
-<!-- ── UNIFIED TECHNICAL MATRIX ── -->
-## 🛠️ Ecosystem Matrix > A clean breakdown of technologies I deploy across the
-software lifecycle.
+## 🛠️ Ecosystem Matrix > Technologies I use for building and maintaining applications.
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr bgcolor="#1A1A1E">
@@ -125,7 +119,7 @@ software lifecycle.
     </th>
   </tr>
   <tr>
-    <td><b>Client Systems</b></td>
+    <td><b>Client</b></td>
     <td>
       <code>React Native</code> &bull; <code>Next.js</code> &bull;
       <code>React.js</code> &bull; <code>TailwindCSS</code> &bull;
@@ -133,7 +127,7 @@ software lifecycle.
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Storage</b></td>
+    <td><b>Backend & Database</b></td>
     <td>
       <code>Express.js</code> &bull; <code>Node.js</code> &bull;
       <code>PostgreSQL</code> &bull; <code>MongoDB</code> &bull;
@@ -141,17 +135,20 @@ software lifecycle.
     </td>
   </tr>
   <tr>
-    <td><b>Architecture & DevOps</b></td>
+    <td><b>Tools & DevOps</b></td>
     <td>
-      <code>System Design</code> &bull; <code>Docker</code> &bull;
-      <code>Kubernetes (Learning)</code> &bull; <code>Firebase</code>
+      <code>Docker</code> &bull;
+      <code>Kubernetes (Learning)</code> &bull;
+      <code>Firebase</code>
     </td>
   </tr>
   <tr>
-    <td><b>Core Languages</b></td>
+    <td><b>Languages</b></td>
     <td>
-      <code>TypeScript</code> &bull; <code>JavaScript (ES6+)</code> &bull;
-      <code>C++</code> &bull; <code>Java</code>
+      <code>TypeScript</code> &bull;
+      <code>JavaScript (ES6+)</code> &bull;
+      <code>C++</code> &bull;
+      <code>Java</code>
     </td>
   </tr>
 </table>
@@ -160,8 +157,7 @@ software lifecycle.
 <hr size="1" color="#2C2C2E" />
 <br />
 
-<!-- ── REAL TIME ANALYTICS SECTION ── -->
-## 📊 Production Metrics
+##  Production Metrics
 
 <p align="center">
   <img
@@ -179,10 +175,9 @@ software lifecycle.
 
 <br />
 <div align="center">
-  <font size="2" color="#555555"
-    ><i
-      >Engineered with an architecture-first mindset, clean separation of
-      concerns, and scalable infrastructure systems.</i
-    ></font
-  >
+  <font size="2" color="#555555">
+    <i>
+      Focused on building clean, reliable, and scalable applications.
+    </i>
+  </font>
 </div>
